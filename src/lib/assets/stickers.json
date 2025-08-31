@@ -1,0 +1,1632 @@
+[
+  {
+    "name": "KMUTT Logo",
+    "stickers": [
+      {
+        "id": "kmutt-logo-1",
+        "src": "/kmutt_logo/1.png",
+        "label": "1"
+      },
+      {
+        "id": "kmutt-logo-2",
+        "src": "/kmutt_logo/2.png",
+        "label": "2"
+      },
+      {
+        "id": "kmutt-logo-3",
+        "src": "/kmutt_logo/3.png",
+        "label": "3"
+      },
+      {
+        "id": "kmutt-logo-4",
+        "src": "/kmutt_logo/4.png",
+        "label": "4"
+      },
+      {
+        "id": "kmutt-logo-5",
+        "src": "/kmutt_logo/5.png",
+        "label": "5"
+      },
+      {
+        "id": "kmutt-logo-6",
+        "src": "/kmutt_logo/6.png",
+        "label": "6"
+      },
+      {
+        "id": "kmutt-logo-7",
+        "src": "/kmutt_logo/7.png",
+        "label": "7"
+      },
+      {
+        "id": "kmutt-logo-8",
+        "src": "/kmutt_logo/8.png",
+        "label": "8"
+      },
+      {
+        "id": "kmutt-logo-9",
+        "src": "/kmutt_logo/9.png",
+        "label": "9"
+      },
+      {
+        "id": "kmutt-logo-10",
+        "src": "/kmutt_logo/10.png",
+        "label": "10"
+      }
+    ]
+  },
+  {
+    "name": "alphabet pink",
+    "stickers": [
+      {
+        "id": "alphabet-pink-a",
+        "src": "/pink/a.png",
+        "label": "a"
+      },
+      {
+        "id": "alphabet-pink-b",
+        "src": "/pink/b.png",
+        "label": "b"
+      },
+      {
+        "id": "alphabet-pink-c",
+        "src": "/pink/c.png",
+        "label": "c"
+      },
+      {
+        "id": "alphabet-pink-d",
+        "src": "/pink/d.png",
+        "label": "d"
+      },
+      {
+        "id": "alphabet-pink-e",
+        "src": "/pink/e.png",
+        "label": "e"
+      },
+      {
+        "id": "alphabet-pink-f",
+        "src": "/pink/f.png",
+        "label": "f"
+      },
+      {
+        "id": "alphabet-pink-g",
+        "src": "/pink/g.png",
+        "label": "g"
+      },
+      {
+        "id": "alphabet-pink-h",
+        "src": "/pink/h.png",
+        "label": "h"
+      },
+      {
+        "id": "alphabet-pink-i",
+        "src": "/pink/i.png",
+        "label": "i"
+      },
+      {
+        "id": "alphabet-pink-j",
+        "src": "/pink/j.png",
+        "label": "j"
+      },
+      {
+        "id": "alphabet-pink-k",
+        "src": "/pink/k.png",
+        "label": "k"
+      },
+      {
+        "id": "alphabet-pink-l",
+        "src": "/pink/l.png",
+        "label": "l"
+      },
+      {
+        "id": "alphabet-pink-m",
+        "src": "/pink/m.png",
+        "label": "m"
+      },
+      {
+        "id": "alphabet-pink-n",
+        "src": "/pink/n.png",
+        "label": "n"
+      },
+      {
+        "id": "alphabet-pink-o",
+        "src": "/pink/o.png",
+        "label": "o"
+      },
+      {
+        "id": "alphabet-pink-p",
+        "src": "/pink/p.png",
+        "label": "p"
+      },
+      {
+        "id": "alphabet-pink-q",
+        "src": "/pink/q.png",
+        "label": "q"
+      },
+      {
+        "id": "alphabet-pink-r",
+        "src": "/pink/r.png",
+        "label": "r"
+      },
+      {
+        "id": "alphabet-pink-s",
+        "src": "/pink/s.png",
+        "label": "s"
+      },
+      {
+        "id": "alphabet-pink-t",
+        "src": "/pink/t.png",
+        "label": "t"
+      },
+      {
+        "id": "alphabet-pink-u",
+        "src": "/pink/u.png",
+        "label": "u"
+      },
+      {
+        "id": "alphabet-pink-v",
+        "src": "/pink/v.png",
+        "label": "v"
+      },
+      {
+        "id": "alphabet-pink-w",
+        "src": "/pink/w.png",
+        "label": "w"
+      },
+      {
+        "id": "alphabet-pink-x",
+        "src": "/pink/x.png",
+        "label": "x"
+      },
+      {
+        "id": "alphabet-pink-y",
+        "src": "/pink/y.png",
+        "label": "y"
+      },
+      {
+        "id": "alphabet-pink-z",
+        "src": "/pink/z.png",
+        "label": "z"
+      },
+      {
+        "id": "alphabet-pink-A",
+        "src": "/pink/A.png",
+        "label": "A"
+      },
+      {
+        "id": "alphabet-pink-B",
+        "src": "/pink/B.png",
+        "label": "B"
+      },
+      {
+        "id": "alphabet-pink-C",
+        "src": "/pink/C.png",
+        "label": "C"
+      },
+      {
+        "id": "alphabet-pink-D",
+        "src": "/pink/D.png",
+        "label": "D"
+      },
+      {
+        "id": "alphabet-pink-E",
+        "src": "/pink/E.png",
+        "label": "E"
+      },
+      {
+        "id": "alphabet-pink-F",
+        "src": "/pink/F.png",
+        "label": "F"
+      },
+      {
+        "id": "alphabet-pink-G",
+        "src": "/pink/G.png",
+        "label": "G"
+      },
+      {
+        "id": "alphabet-pink-H",
+        "src": "/pink/H.png",
+        "label": "H"
+      },
+      {
+        "id": "alphabet-pink-I",
+        "src": "/pink/I.png",
+        "label": "I"
+      },
+      {
+        "id": "alphabet-pink-J",
+        "src": "/pink/J.png",
+        "label": "J"
+      },
+      {
+        "id": "alphabet-pink-K",
+        "src": "/pink/K.png",
+        "label": "K"
+      },
+      {
+        "id": "alphabet-pink-L",
+        "src": "/pink/L.png",
+        "label": "L"
+      },
+      {
+        "id": "alphabet-pink-M",
+        "src": "/pink/M.png",
+        "label": "M"
+      },
+      {
+        "id": "alphabet-pink-N",
+        "src": "/pink/N.png",
+        "label": "N"
+      },
+      {
+        "id": "alphabet-pink-O",
+        "src": "/pink/O.png",
+        "label": "O"
+      },
+      {
+        "id": "alphabet-pink-P",
+        "src": "/pink/P.png",
+        "label": "P"
+      },
+      {
+        "id": "alphabet-pink-Q",
+        "src": "/pink/Q.png",
+        "label": "Q"
+      },
+      {
+        "id": "alphabet-pink-R",
+        "src": "/pink/R.png",
+        "label": "R"
+      },
+      {
+        "id": "alphabet-pink-S",
+        "src": "/pink/S.png",
+        "label": "S"
+      },
+      {
+        "id": "alphabet-pink-T",
+        "src": "/pink/T.png",
+        "label": "T"
+      },
+      {
+        "id": "alphabet-pink-U",
+        "src": "/pink/U.png",
+        "label": "U"
+      },
+      {
+        "id": "alphabet-pink-V",
+        "src": "/pink/V.png",
+        "label": "V"
+      },
+      {
+        "id": "alphabet-pink-W",
+        "src": "/pink/W.png",
+        "label": "W"
+      },
+      {
+        "id": "alphabet-pink-X",
+        "src": "/pink/X.png",
+        "label": "X"
+      },
+      {
+        "id": "alphabet-pink-Y",
+        "src": "/pink/Y.png",
+        "label": "Y"
+      },
+      {
+        "id": "alphabet-pink-Z",
+        "src": "/pink/Z.png",
+        "label": "Z"
+      },
+      {
+        "id": "alphabet-pink-0",
+        "src": "/pink/0.png",
+        "label": "0"
+      },
+      {
+        "id": "alphabet-pink-1",
+        "src": "/pink/1.png",
+        "label": "1"
+      },
+      {
+        "id": "alphabet-pink-2",
+        "src": "/pink/2.png",
+        "label": "2"
+      },
+      {
+        "id": "alphabet-pink-3",
+        "src": "/pink/3.png",
+        "label": "3"
+      },
+      {
+        "id": "alphabet-pink-4",
+        "src": "/pink/4.png",
+        "label": "4"
+      },
+      {
+        "id": "alphabet-pink-5",
+        "src": "/pink/5.png",
+        "label": "5"
+      },
+      {
+        "id": "alphabet-pink-6",
+        "src": "/pink/6.png",
+        "label": "6"
+      },
+      {
+        "id": "alphabet-pink-7",
+        "src": "/pink/7.png",
+        "label": "7"
+      },
+      {
+        "id": "alphabet-pink-8",
+        "src": "/pink/8.png",
+        "label": "8"
+      },
+      {
+        "id": "alphabet-pink-9",
+        "src": "/pink/9.png",
+        "label": "9"
+      }
+    ]
+  },
+  {
+    "name": "alphabet green",
+    "stickers": [
+      {
+        "id": "alphabet-green-a",
+        "src": "/green/a.png",
+        "label": "a"
+      },
+      {
+        "id": "alphabet-green-b",
+        "src": "/green/b.png",
+        "label": "b"
+      },
+      {
+        "id": "alphabet-green-c",
+        "src": "/green/c.png",
+        "label": "c"
+      },
+      {
+        "id": "alphabet-green-d",
+        "src": "/green/d.png",
+        "label": "d"
+      },
+      {
+        "id": "alphabet-green-e",
+        "src": "/green/e.png",
+        "label": "e"
+      },
+      {
+        "id": "alphabet-green-f",
+        "src": "/green/f.png",
+        "label": "f"
+      },
+      {
+        "id": "alphabet-green-g",
+        "src": "/green/g.png",
+        "label": "g"
+      },
+      {
+        "id": "alphabet-green-h",
+        "src": "/green/h.png",
+        "label": "h"
+      },
+      {
+        "id": "alphabet-green-i",
+        "src": "/green/i.png",
+        "label": "i"
+      },
+      {
+        "id": "alphabet-green-j",
+        "src": "/green/j.png",
+        "label": "j"
+      },
+      {
+        "id": "alphabet-green-k",
+        "src": "/green/k.png",
+        "label": "k"
+      },
+      {
+        "id": "alphabet-green-l",
+        "src": "/green/l.png",
+        "label": "l"
+      },
+      {
+        "id": "alphabet-green-m",
+        "src": "/green/m.png",
+        "label": "m"
+      },
+      {
+        "id": "alphabet-green-n",
+        "src": "/green/n.png",
+        "label": "n"
+      },
+      {
+        "id": "alphabet-green-o",
+        "src": "/green/o.png",
+        "label": "o"
+      },
+      {
+        "id": "alphabet-green-p",
+        "src": "/green/p.png",
+        "label": "p"
+      },
+      {
+        "id": "alphabet-green-q",
+        "src": "/green/q.png",
+        "label": "q"
+      },
+      {
+        "id": "alphabet-green-r",
+        "src": "/green/r.png",
+        "label": "r"
+      },
+      {
+        "id": "alphabet-green-s",
+        "src": "/green/s.png",
+        "label": "s"
+      },
+      {
+        "id": "alphabet-green-t",
+        "src": "/green/t.png",
+        "label": "t"
+      },
+      {
+        "id": "alphabet-green-u",
+        "src": "/green/u.png",
+        "label": "u"
+      },
+      {
+        "id": "alphabet-green-v",
+        "src": "/green/v.png",
+        "label": "v"
+      },
+      {
+        "id": "alphabet-green-w",
+        "src": "/green/w.png",
+        "label": "w"
+      },
+      {
+        "id": "alphabet-green-x",
+        "src": "/green/x.png",
+        "label": "x"
+      },
+      {
+        "id": "alphabet-green-y",
+        "src": "/green/y.png",
+        "label": "y"
+      },
+      {
+        "id": "alphabet-green-z",
+        "src": "/green/z.png",
+        "label": "z"
+      },
+      {
+        "id": "alphabet-green-A",
+        "src": "/green/A.png",
+        "label": "A"
+      },
+      {
+        "id": "alphabet-green-B",
+        "src": "/green/B.png",
+        "label": "B"
+      },
+      {
+        "id": "alphabet-green-C",
+        "src": "/green/C.png",
+        "label": "C"
+      },
+      {
+        "id": "alphabet-green-D",
+        "src": "/green/D.png",
+        "label": "D"
+      },
+      {
+        "id": "alphabet-green-E",
+        "src": "/green/E.png",
+        "label": "E"
+      },
+      {
+        "id": "alphabet-green-F",
+        "src": "/green/F.png",
+        "label": "F"
+      },
+      {
+        "id": "alphabet-green-G",
+        "src": "/green/G.png",
+        "label": "G"
+      },
+      {
+        "id": "alphabet-green-H",
+        "src": "/green/H.png",
+        "label": "H"
+      },
+      {
+        "id": "alphabet-green-I",
+        "src": "/green/I.png",
+        "label": "I"
+      },
+      {
+        "id": "alphabet-green-J",
+        "src": "/green/J.png",
+        "label": "J"
+      },
+      {
+        "id": "alphabet-green-K",
+        "src": "/green/K.png",
+        "label": "K"
+      },
+      {
+        "id": "alphabet-green-L",
+        "src": "/green/L.png",
+        "label": "L"
+      },
+      {
+        "id": "alphabet-green-M",
+        "src": "/green/M.png",
+        "label": "M"
+      },
+      {
+        "id": "alphabet-green-N",
+        "src": "/green/N.png",
+        "label": "N"
+      },
+      {
+        "id": "alphabet-green-O",
+        "src": "/green/O.png",
+        "label": "O"
+      },
+      {
+        "id": "alphabet-green-P",
+        "src": "/green/P.png",
+        "label": "P"
+      },
+      {
+        "id": "alphabet-green-Q",
+        "src": "/green/Q.png",
+        "label": "Q"
+      },
+      {
+        "id": "alphabet-green-R",
+        "src": "/green/R.png",
+        "label": "R"
+      },
+      {
+        "id": "alphabet-green-S",
+        "src": "/green/S.png",
+        "label": "S"
+      },
+      {
+        "id": "alphabet-green-T",
+        "src": "/green/T.png",
+        "label": "T"
+      },
+      {
+        "id": "alphabet-green-U",
+        "src": "/green/U.png",
+        "label": "U"
+      },
+      {
+        "id": "alphabet-green-V",
+        "src": "/green/V.png",
+        "label": "V"
+      },
+      {
+        "id": "alphabet-green-W",
+        "src": "/green/W.png",
+        "label": "W"
+      },
+      {
+        "id": "alphabet-green-X",
+        "src": "/green/X.png",
+        "label": "X"
+      },
+      {
+        "id": "alphabet-green-Y",
+        "src": "/green/Y.png",
+        "label": "Y"
+      },
+      {
+        "id": "alphabet-green-Z",
+        "src": "/green/Z.png",
+        "label": "Z"
+      },
+      {
+        "id": "alphabet-green-0",
+        "src": "/green/0.png",
+        "label": "0"
+      },
+      {
+        "id": "alphabet-green-1",
+        "src": "/green/1.png",
+        "label": "1"
+      },
+      {
+        "id": "alphabet-green-2",
+        "src": "/green/2.png",
+        "label": "2"
+      },
+      {
+        "id": "alphabet-green-3",
+        "src": "/green/3.png",
+        "label": "3"
+      },
+      {
+        "id": "alphabet-green-4",
+        "src": "/green/4.png",
+        "label": "4"
+      },
+      {
+        "id": "alphabet-green-5",
+        "src": "/green/5.png",
+        "label": "5"
+      },
+      {
+        "id": "alphabet-green-6",
+        "src": "/green/6.png",
+        "label": "6"
+      },
+      {
+        "id": "alphabet-green-7",
+        "src": "/green/7.png",
+        "label": "7"
+      },
+      {
+        "id": "alphabet-green-8",
+        "src": "/green/8.png",
+        "label": "8"
+      },
+      {
+        "id": "alphabet-green-9",
+        "src": "/green/9.png",
+        "label": "9"
+      }
+    ]
+  },
+  {
+    "name": "alphabet yellow",
+    "stickers": [
+      {
+        "id": "alphabet-yellow-a",
+        "src": "/yellow/a.png",
+        "label": "a"
+      },
+      {
+        "id": "alphabet-yellow-b",
+        "src": "/yellow/b.png",
+        "label": "b"
+      },
+      {
+        "id": "alphabet-yellow-c",
+        "src": "/yellow/c.png",
+        "label": "c"
+      },
+      {
+        "id": "alphabet-yellow-d",
+        "src": "/yellow/d.png",
+        "label": "d"
+      },
+      {
+        "id": "alphabet-yellow-e",
+        "src": "/yellow/e.png",
+        "label": "e"
+      },
+      {
+        "id": "alphabet-yellow-f",
+        "src": "/yellow/f.png",
+        "label": "f"
+      },
+      {
+        "id": "alphabet-yellow-g",
+        "src": "/yellow/g.png",
+        "label": "g"
+      },
+      {
+        "id": "alphabet-yellow-h",
+        "src": "/yellow/h.png",
+        "label": "h"
+      },
+      {
+        "id": "alphabet-yellow-i",
+        "src": "/yellow/i.png",
+        "label": "i"
+      },
+      {
+        "id": "alphabet-yellow-j",
+        "src": "/yellow/j.png",
+        "label": "j"
+      },
+      {
+        "id": "alphabet-yellow-k",
+        "src": "/yellow/k.png",
+        "label": "k"
+      },
+      {
+        "id": "alphabet-yellow-l",
+        "src": "/yellow/l.png",
+        "label": "l"
+      },
+      {
+        "id": "alphabet-yellow-m",
+        "src": "/yellow/m.png",
+        "label": "m"
+      },
+      {
+        "id": "alphabet-yellow-n",
+        "src": "/yellow/n.png",
+        "label": "n"
+      },
+      {
+        "id": "alphabet-yellow-o",
+        "src": "/yellow/o.png",
+        "label": "o"
+      },
+      {
+        "id": "alphabet-yellow-p",
+        "src": "/yellow/p.png",
+        "label": "p"
+      },
+      {
+        "id": "alphabet-yellow-q",
+        "src": "/yellow/q.png",
+        "label": "q"
+      },
+      {
+        "id": "alphabet-yellow-r",
+        "src": "/yellow/r.png",
+        "label": "r"
+      },
+      {
+        "id": "alphabet-yellow-s",
+        "src": "/yellow/s.png",
+        "label": "s"
+      },
+      {
+        "id": "alphabet-yellow-t",
+        "src": "/yellow/t.png",
+        "label": "t"
+      },
+      {
+        "id": "alphabet-yellow-u",
+        "src": "/yellow/u.png",
+        "label": "u"
+      },
+      {
+        "id": "alphabet-yellow-v",
+        "src": "/yellow/v.png",
+        "label": "v"
+      },
+      {
+        "id": "alphabet-yellow-w",
+        "src": "/yellow/w.png",
+        "label": "w"
+      },
+      {
+        "id": "alphabet-yellow-x",
+        "src": "/yellow/x.png",
+        "label": "x"
+      },
+      {
+        "id": "alphabet-yellow-y",
+        "src": "/yellow/y.png",
+        "label": "y"
+      },
+      {
+        "id": "alphabet-yellow-z",
+        "src": "/yellow/z.png",
+        "label": "z"
+      },
+      {
+        "id": "alphabet-yellow-A",
+        "src": "/yellow/A.png",
+        "label": "A"
+      },
+      {
+        "id": "alphabet-yellow-B",
+        "src": "/yellow/B.png",
+        "label": "B"
+      },
+      {
+        "id": "alphabet-yellow-C",
+        "src": "/yellow/C.png",
+        "label": "C"
+      },
+      {
+        "id": "alphabet-yellow-D",
+        "src": "/yellow/D.png",
+        "label": "D"
+      },
+      {
+        "id": "alphabet-yellow-E",
+        "src": "/yellow/E.png",
+        "label": "E"
+      },
+      {
+        "id": "alphabet-yellow-F",
+        "src": "/yellow/F.png",
+        "label": "F"
+      },
+      {
+        "id": "alphabet-yellow-G",
+        "src": "/yellow/G.png",
+        "label": "G"
+      },
+      {
+        "id": "alphabet-yellow-H",
+        "src": "/yellow/H.png",
+        "label": "H"
+      },
+      {
+        "id": "alphabet-yellow-I",
+        "src": "/yellow/I.png",
+        "label": "I"
+      },
+      {
+        "id": "alphabet-yellow-J",
+        "src": "/yellow/J.png",
+        "label": "J"
+      },
+      {
+        "id": "alphabet-yellow-K",
+        "src": "/yellow/K.png",
+        "label": "K"
+      },
+      {
+        "id": "alphabet-yellow-L",
+        "src": "/yellow/L.png",
+        "label": "L"
+      },
+      {
+        "id": "alphabet-yellow-M",
+        "src": "/yellow/M.png",
+        "label": "M"
+      },
+      {
+        "id": "alphabet-yellow-N",
+        "src": "/yellow/N.png",
+        "label": "N"
+      },
+      {
+        "id": "alphabet-yellow-O",
+        "src": "/yellow/O.png",
+        "label": "O"
+      },
+      {
+        "id": "alphabet-yellow-P",
+        "src": "/yellow/P.png",
+        "label": "P"
+      },
+      {
+        "id": "alphabet-yellow-Q",
+        "src": "/yellow/Q.png",
+        "label": "Q"
+      },
+      {
+        "id": "alphabet-yellow-R",
+        "src": "/yellow/R.png",
+        "label": "R"
+      },
+      {
+        "id": "alphabet-yellow-S",
+        "src": "/yellow/S.png",
+        "label": "S"
+      },
+      {
+        "id": "alphabet-yellow-T",
+        "src": "/yellow/T.png",
+        "label": "T"
+      },
+      {
+        "id": "alphabet-yellow-U",
+        "src": "/yellow/U.png",
+        "label": "U"
+      },
+      {
+        "id": "alphabet-yellow-V",
+        "src": "/yellow/V.png",
+        "label": "V"
+      },
+      {
+        "id": "alphabet-yellow-W",
+        "src": "/yellow/W.png",
+        "label": "W"
+      },
+      {
+        "id": "alphabet-yellow-X",
+        "src": "/yellow/X.png",
+        "label": "X"
+      },
+      {
+        "id": "alphabet-yellow-Y",
+        "src": "/yellow/Y.png",
+        "label": "Y"
+      },
+      {
+        "id": "alphabet-yellow-Z",
+        "src": "/yellow/Z.png",
+        "label": "Z"
+      },
+      {
+        "id": "alphabet-yellow-0",
+        "src": "/yellow/0.png",
+        "label": "0"
+      },
+      {
+        "id": "alphabet-yellow-1",
+        "src": "/yellow/1.png",
+        "label": "1"
+      },
+      {
+        "id": "alphabet-yellow-2",
+        "src": "/yellow/2.png",
+        "label": "2"
+      },
+      {
+        "id": "alphabet-yellow-3",
+        "src": "/yellow/3.png",
+        "label": "3"
+      },
+      {
+        "id": "alphabet-yellow-4",
+        "src": "/yellow/4.png",
+        "label": "4"
+      },
+      {
+        "id": "alphabet-yellow-5",
+        "src": "/yellow/5.png",
+        "label": "5"
+      },
+      {
+        "id": "alphabet-yellow-6",
+        "src": "/yellow/6.png",
+        "label": "6"
+      },
+      {
+        "id": "alphabet-yellow-7",
+        "src": "/yellow/7.png",
+        "label": "7"
+      },
+      {
+        "id": "alphabet-yellow-8",
+        "src": "/yellow/8.png",
+        "label": "8"
+      },
+      {
+        "id": "alphabet-yellow-9",
+        "src": "/yellow/9.png",
+        "label": "9"
+      }
+    ]
+  },
+  {
+    "name": "alphabet blue",
+    "stickers": [
+      {
+        "id": "alphabet-blue-a",
+        "src": "/blue/a.png",
+        "label": "a"
+      },
+      {
+        "id": "alphabet-blue-b",
+        "src": "/blue/b.png",
+        "label": "b"
+      },
+      {
+        "id": "alphabet-blue-c",
+        "src": "/blue/c.png",
+        "label": "c"
+      },
+      {
+        "id": "alphabet-blue-d",
+        "src": "/blue/d.png",
+        "label": "d"
+      },
+      {
+        "id": "alphabet-blue-e",
+        "src": "/blue/e.png",
+        "label": "e"
+      },
+      {
+        "id": "alphabet-blue-f",
+        "src": "/blue/f.png",
+        "label": "f"
+      },
+      {
+        "id": "alphabet-blue-g",
+        "src": "/blue/g.png",
+        "label": "g"
+      },
+      {
+        "id": "alphabet-blue-h",
+        "src": "/blue/h.png",
+        "label": "h"
+      },
+      {
+        "id": "alphabet-blue-i",
+        "src": "/blue/i.png",
+        "label": "i"
+      },
+      {
+        "id": "alphabet-blue-j",
+        "src": "/blue/j.png",
+        "label": "j"
+      },
+      {
+        "id": "alphabet-blue-k",
+        "src": "/blue/k.png",
+        "label": "k"
+      },
+      {
+        "id": "alphabet-blue-l",
+        "src": "/blue/l.png",
+        "label": "l"
+      },
+      {
+        "id": "alphabet-blue-m",
+        "src": "/blue/m.png",
+        "label": "m"
+      },
+      {
+        "id": "alphabet-blue-n",
+        "src": "/blue/n.png",
+        "label": "n"
+      },
+      {
+        "id": "alphabet-blue-o",
+        "src": "/blue/o.png",
+        "label": "o"
+      },
+      {
+        "id": "alphabet-blue-p",
+        "src": "/blue/p.png",
+        "label": "p"
+      },
+      {
+        "id": "alphabet-blue-q",
+        "src": "/blue/q.png",
+        "label": "q"
+      },
+      {
+        "id": "alphabet-blue-r",
+        "src": "/blue/r.png",
+        "label": "r"
+      },
+      {
+        "id": "alphabet-blue-s",
+        "src": "/blue/s.png",
+        "label": "s"
+      },
+      {
+        "id": "alphabet-blue-t",
+        "src": "/blue/t.png",
+        "label": "t"
+      },
+      {
+        "id": "alphabet-blue-u",
+        "src": "/blue/u.png",
+        "label": "u"
+      },
+      {
+        "id": "alphabet-blue-v",
+        "src": "/blue/v.png",
+        "label": "v"
+      },
+      {
+        "id": "alphabet-blue-w",
+        "src": "/blue/w.png",
+        "label": "w"
+      },
+      {
+        "id": "alphabet-blue-x",
+        "src": "/blue/x.png",
+        "label": "x"
+      },
+      {
+        "id": "alphabet-blue-y",
+        "src": "/blue/y.png",
+        "label": "y"
+      },
+      {
+        "id": "alphabet-blue-z",
+        "src": "/blue/z.png",
+        "label": "z"
+      },
+      {
+        "id": "alphabet-blue-A",
+        "src": "/blue/A.png",
+        "label": "A"
+      },
+      {
+        "id": "alphabet-blue-B",
+        "src": "/blue/B.png",
+        "label": "B"
+      },
+      {
+        "id": "alphabet-blue-C",
+        "src": "/blue/C.png",
+        "label": "C"
+      },
+      {
+        "id": "alphabet-blue-D",
+        "src": "/blue/D.png",
+        "label": "D"
+      },
+      {
+        "id": "alphabet-blue-E",
+        "src": "/blue/E.png",
+        "label": "E"
+      },
+      {
+        "id": "alphabet-blue-F",
+        "src": "/blue/F.png",
+        "label": "F"
+      },
+      {
+        "id": "alphabet-blue-G",
+        "src": "/blue/G.png",
+        "label": "G"
+      },
+      {
+        "id": "alphabet-blue-H",
+        "src": "/blue/H.png",
+        "label": "H"
+      },
+      {
+        "id": "alphabet-blue-I",
+        "src": "/blue/I.png",
+        "label": "I"
+      },
+      {
+        "id": "alphabet-blue-J",
+        "src": "/blue/J.png",
+        "label": "J"
+      },
+      {
+        "id": "alphabet-blue-K",
+        "src": "/blue/K.png",
+        "label": "K"
+      },
+      {
+        "id": "alphabet-blue-L",
+        "src": "/blue/L.png",
+        "label": "L"
+      },
+      {
+        "id": "alphabet-blue-M",
+        "src": "/blue/M.png",
+        "label": "M"
+      },
+      {
+        "id": "alphabet-blue-N",
+        "src": "/blue/N.png",
+        "label": "N"
+      },
+      {
+        "id": "alphabet-blue-O",
+        "src": "/blue/O.png",
+        "label": "O"
+      },
+      {
+        "id": "alphabet-blue-P",
+        "src": "/blue/P.png",
+        "label": "P"
+      },
+      {
+        "id": "alphabet-blue-Q",
+        "src": "/blue/Q.png",
+        "label": "Q"
+      },
+      {
+        "id": "alphabet-blue-R",
+        "src": "/blue/R.png",
+        "label": "R"
+      },
+      {
+        "id": "alphabet-blue-S",
+        "src": "/blue/S.png",
+        "label": "S"
+      },
+      {
+        "id": "alphabet-blue-T",
+        "src": "/blue/T.png",
+        "label": "T"
+      },
+      {
+        "id": "alphabet-blue-U",
+        "src": "/blue/U.png",
+        "label": "U"
+      },
+      {
+        "id": "alphabet-blue-V",
+        "src": "/blue/V.png",
+        "label": "V"
+      },
+      {
+        "id": "alphabet-blue-W",
+        "src": "/blue/W.png",
+        "label": "W"
+      },
+      {
+        "id": "alphabet-blue-X",
+        "src": "/blue/X.png",
+        "label": "X"
+      },
+      {
+        "id": "alphabet-blue-Y",
+        "src": "/blue/Y.png",
+        "label": "Y"
+      },
+      {
+        "id": "alphabet-blue-Z",
+        "src": "/blue/Z.png",
+        "label": "Z"
+      },
+      {
+        "id": "alphabet-blue-0",
+        "src": "/blue/0.png",
+        "label": "0"
+      },
+      {
+        "id": "alphabet-blue-1",
+        "src": "/blue/1.png",
+        "label": "1"
+      },
+      {
+        "id": "alphabet-blue-2",
+        "src": "/blue/2.png",
+        "label": "2"
+      },
+      {
+        "id": "alphabet-blue-3",
+        "src": "/blue/3.png",
+        "label": "3"
+      },
+      {
+        "id": "alphabet-blue-4",
+        "src": "/blue/4.png",
+        "label": "4"
+      },
+      {
+        "id": "alphabet-blue-5",
+        "src": "/blue/5.png",
+        "label": "5"
+      },
+      {
+        "id": "alphabet-blue-6",
+        "src": "/blue/6.png",
+        "label": "6"
+      },
+      {
+        "id": "alphabet-blue-7",
+        "src": "/blue/7.png",
+        "label": "7"
+      },
+      {
+        "id": "alphabet-blue-8",
+        "src": "/blue/8.png",
+        "label": "8"
+      },
+      {
+        "id": "alphabet-blue-9",
+        "src": "/blue/9.png",
+        "label": "9"
+      }
+    ]
+  },
+  {
+    "name": "alphabet purple",
+    "stickers": [
+      {
+        "id": "alphabet-purple-a",
+        "src": "/purple/a.png",
+        "label": "a"
+      },
+      {
+        "id": "alphabet-purple-b",
+        "src": "/purple/b.png",
+        "label": "b"
+      },
+      {
+        "id": "alphabet-purple-c",
+        "src": "/purple/c.png",
+        "label": "c"
+      },
+      {
+        "id": "alphabet-purple-d",
+        "src": "/purple/d.png",
+        "label": "d"
+      },
+      {
+        "id": "alphabet-purple-e",
+        "src": "/purple/e.png",
+        "label": "e"
+      },
+      {
+        "id": "alphabet-purple-f",
+        "src": "/purple/f.png",
+        "label": "f"
+      },
+      {
+        "id": "alphabet-purple-g",
+        "src": "/purple/g.png",
+        "label": "g"
+      },
+      {
+        "id": "alphabet-purple-h",
+        "src": "/purple/h.png",
+        "label": "h"
+      },
+      {
+        "id": "alphabet-purple-i",
+        "src": "/purple/i.png",
+        "label": "i"
+      },
+      {
+        "id": "alphabet-purple-j",
+        "src": "/purple/j.png",
+        "label": "j"
+      },
+      {
+        "id": "alphabet-purple-k",
+        "src": "/purple/k.png",
+        "label": "k"
+      },
+      {
+        "id": "alphabet-purple-l",
+        "src": "/purple/l.png",
+        "label": "l"
+      },
+      {
+        "id": "alphabet-purple-m",
+        "src": "/purple/m.png",
+        "label": "m"
+      },
+      {
+        "id": "alphabet-purple-n",
+        "src": "/purple/n.png",
+        "label": "n"
+      },
+      {
+        "id": "alphabet-purple-o",
+        "src": "/purple/o.png",
+        "label": "o"
+      },
+      {
+        "id": "alphabet-purple-p",
+        "src": "/purple/p.png",
+        "label": "p"
+      },
+      {
+        "id": "alphabet-purple-q",
+        "src": "/purple/q.png",
+        "label": "q"
+      },
+      {
+        "id": "alphabet-purple-r",
+        "src": "/purple/r.png",
+        "label": "r"
+      },
+      {
+        "id": "alphabet-purple-s",
+        "src": "/purple/s.png",
+        "label": "s"
+      },
+      {
+        "id": "alphabet-purple-t",
+        "src": "/purple/t.png",
+        "label": "t"
+      },
+      {
+        "id": "alphabet-purple-u",
+        "src": "/purple/u.png",
+        "label": "u"
+      },
+      {
+        "id": "alphabet-purple-v",
+        "src": "/purple/v.png",
+        "label": "v"
+      },
+      {
+        "id": "alphabet-purple-w",
+        "src": "/purple/w.png",
+        "label": "w"
+      },
+      {
+        "id": "alphabet-purple-x",
+        "src": "/purple/x.png",
+        "label": "x"
+      },
+      {
+        "id": "alphabet-purple-y",
+        "src": "/purple/y.png",
+        "label": "y"
+      },
+      {
+        "id": "alphabet-purple-z",
+        "src": "/purple/z.png",
+        "label": "z"
+      },
+      {
+        "id": "alphabet-purple-A",
+        "src": "/purple/A.png",
+        "label": "A"
+      },
+      {
+        "id": "alphabet-purple-B",
+        "src": "/purple/B.png",
+        "label": "B"
+      },
+      {
+        "id": "alphabet-purple-C",
+        "src": "/purple/C.png",
+        "label": "C"
+      },
+      {
+        "id": "alphabet-purple-D",
+        "src": "/purple/D.png",
+        "label": "D"
+      },
+      {
+        "id": "alphabet-purple-E",
+        "src": "/purple/E.png",
+        "label": "E"
+      },
+      {
+        "id": "alphabet-purple-F",
+        "src": "/purple/F.png",
+        "label": "F"
+      },
+      {
+        "id": "alphabet-purple-G",
+        "src": "/purple/G.png",
+        "label": "G"
+      },
+      {
+        "id": "alphabet-purple-H",
+        "src": "/purple/H.png",
+        "label": "H"
+      },
+      {
+        "id": "alphabet-purple-I",
+        "src": "/purple/I.png",
+        "label": "I"
+      },
+      {
+        "id": "alphabet-purple-J",
+        "src": "/purple/J.png",
+        "label": "J"
+      },
+      {
+        "id": "alphabet-purple-K",
+        "src": "/purple/K.png",
+        "label": "K"
+      },
+      {
+        "id": "alphabet-purple-L",
+        "src": "/purple/L.png",
+        "label": "L"
+      },
+      {
+        "id": "alphabet-purple-M",
+        "src": "/purple/M.png",
+        "label": "M"
+      },
+      {
+        "id": "alphabet-purple-N",
+        "src": "/purple/N.png",
+        "label": "N"
+      },
+      {
+        "id": "alphabet-purple-O",
+        "src": "/purple/O.png",
+        "label": "O"
+      },
+      {
+        "id": "alphabet-purple-P",
+        "src": "/purple/P.png",
+        "label": "P"
+      },
+      {
+        "id": "alphabet-purple-Q",
+        "src": "/purple/Q.png",
+        "label": "Q"
+      },
+      {
+        "id": "alphabet-purple-R",
+        "src": "/purple/R.png",
+        "label": "R"
+      },
+      {
+        "id": "alphabet-purple-S",
+        "src": "/purple/S.png",
+        "label": "S"
+      },
+      {
+        "id": "alphabet-purple-T",
+        "src": "/purple/T.png",
+        "label": "T"
+      },
+      {
+        "id": "alphabet-purple-U",
+        "src": "/purple/U.png",
+        "label": "U"
+      },
+      {
+        "id": "alphabet-purple-V",
+        "src": "/purple/V.png",
+        "label": "V"
+      },
+      {
+        "id": "alphabet-purple-W",
+        "src": "/purple/W.png",
+        "label": "W"
+      },
+      {
+        "id": "alphabet-purple-X",
+        "src": "/purple/X.png",
+        "label": "X"
+      },
+      {
+        "id": "alphabet-purple-Y",
+        "src": "/purple/Y.png",
+        "label": "Y"
+      },
+      {
+        "id": "alphabet-purple-Z",
+        "src": "/purple/Z.png",
+        "label": "Z"
+      },
+      {
+        "id": "alphabet-purple-0",
+        "src": "/purple/0.png",
+        "label": "0"
+      },
+      {
+        "id": "alphabet-purple-1",
+        "src": "/purple/1.png",
+        "label": "1"
+      },
+      {
+        "id": "alphabet-purple-2",
+        "src": "/purple/2.png",
+        "label": "2"
+      },
+      {
+        "id": "alphabet-purple-3",
+        "src": "/purple/3.png",
+        "label": "3"
+      },
+      {
+        "id": "alphabet-purple-4",
+        "src": "/purple/4.png",
+        "label": "4"
+      },
+      {
+        "id": "alphabet-purple-5",
+        "src": "/purple/5.png",
+        "label": "5"
+      },
+      {
+        "id": "alphabet-purple-6",
+        "src": "/purple/6.png",
+        "label": "6"
+      },
+      {
+        "id": "alphabet-purple-7",
+        "src": "/purple/7.png",
+        "label": "7"
+      },
+      {
+        "id": "alphabet-purple-8",
+        "src": "/purple/8.png",
+        "label": "8"
+      },
+      {
+        "id": "alphabet-purple-9",
+        "src": "/purple/9.png",
+        "label": "9"
+      }
+    ]
+  }
+]
