@@ -453,14 +453,13 @@
   <!-- สเตจ/ผืนผ้าใบ -->
   <div class="md:w-9/12 h-full flex justify-center items-center relative">
 
-    <div class="absolute top-16 md:top-0 right-0 flex justify-between m-4 md:m-8 p-4 border-2 border-gray-200 bg-white rounded-xl shadow-lg z-[20]">
+    <div class="absolute top-0 md:top-16 md:top-0 right-0 flex justify-between m-4 md:m-8 p-4 border-2 border-gray-200 bg-white rounded-xl shadow-lg z-[20]">
       <div class="flex gap-2">
-        <button class="btn ghost" on:click={() => { statusTab = !statusTab; }}>☰</button>
+        <button class={`btn ${statusTab ? 'md:hidden' : 'md:hidden ghost'}`} on:click={() => { statusTab = !statusTab; }}>☰</button>
         <button class="btn ghost" on:click={undo} disabled={!canUndo}>↶</button>
         <button class="btn ghost" on:click={redo} disabled={!canRedo}>↷</button>
         <button class="btn ghost" on:click={bringForward} title="Bring forward">⬆︎</button>
         <button class="btn ghost" on:click={sendBackward} title="Send backward">⬇︎</button>
-        <button class="btn" on:click={downloadPNG} title="Export PNG">Export</button>
       </div>
       <div class="flex gap-2 ml-4 md:ml-8">
         <button class="btn ghost" on:click={removeSelected} title="Delete selected">🗑</button>
